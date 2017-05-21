@@ -1,4 +1,3 @@
-#write your code below
 def ftoc(num)
   ((num-32)*5)/9
 end
